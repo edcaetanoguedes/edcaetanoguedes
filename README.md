@@ -19,14 +19,6 @@
 
 ###
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mk6l{background-color:#000000;border-color:#000000;color:#ffffff;text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 303px">
 <colgroup>
 <col style="width: 73px">
@@ -34,8 +26,8 @@
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-mk6l"></td>
-    <td class="tg-mk6l"></td>
+    <td class="tg-mk6l">Foto</td>
+    <td class="tg-mk6l">Demais</td>
   </tr>
 </thead>
 </table>
