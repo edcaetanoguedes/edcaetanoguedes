@@ -4,7 +4,7 @@
 
 ###
 
-<table class="tg" style="undefined;table-layout: fixed; width: 340px">
+<table class="tg" style="undefined;table-layout: fixed;">
 <colgroup>
 <col style="width: 82px">
 <col style="width: 258px">
