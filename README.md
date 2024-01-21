@@ -19,19 +19,24 @@
 
 ###
 
-<table class="tg" style="undefined;table-layout: fixed; width: 303px">
+<table class="tg" style="undefined;table-layout: fixed; width: 340px">
 <colgroup>
-<col style="width: 150px">
-<col style="width: 300px">
+<col style="width: 82px">
+<col style="width: 258px">
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-mk6l">Foto</td>
-    <td class="tg-mk6l">Demais</td>
+    <td class="tg-mk6l" rowspan="3">Foto</td>
+    <td class="tg-mk6l"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Perfil</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Perfil</td>
   </tr>
 </thead>
 </table>
-
 ###
 
 <h2 align="center">Hello, you can call me Eddye. 👋</h2>
