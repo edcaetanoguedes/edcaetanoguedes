@@ -29,7 +29,7 @@
 ###
 
 <p align="left">-🔭 At the moment, I work as a Freelancer developing applications, mainly Web.</p>
-<p align="left">No momento, eu trabalho como Freelancer desenvolvendo aplicações, principalmente aplicações Web.<p>
+<p align="left" style="font-size: 10px">No momento, eu trabalho como Freelancer desenvolvendo aplicações, principalmente aplicações Web.<p>
 
 <p align="left">-📚 I'm currently delving deeper into React Native, and in parallel Pentest.</p>
 <p align="left">Atualmente eu estou me aprofundando em React Native, e em paralelo sobre Pentest.</p>
