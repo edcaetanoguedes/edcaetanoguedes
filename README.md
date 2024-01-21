@@ -1,20 +1,5 @@
 
 <div align="left">
-  <img height="150" src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow"  />
-  
-  <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="Perfil do Linkedin" />
-  </a>
-    
-  <a href="https://www.instagram.com/egbsdev">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Perfil do Instagram"  />
-  </a>
-
-  <a href="mailto:ednaldocaetanoguedes@gmail.com">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="30" alt="Enviar email..."  />
-    </a>
-    
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=edcaetanoguedes&" hidden="true"  />
 </div>
 
 ###
@@ -26,17 +11,39 @@
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-mk6l" rowspan="3">Foto</td>
-    <td class="tg-mk6l"></td>
+    <td class="tg-mk6l" rowspan="3">
+      <img height="150" src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow"  />
+    </td>
+    
+  <td class="tg-mk6l">
+      <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="Perfil do Linkedin" />
+  </a>
+    </td>
   </tr>
+  
   <tr>
-    <td class="tg-0lax">Perfil</td>
+    <td class="tg-0lax">
+      <a href="https://www.instagram.com/egbsdev">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Perfil do Instagram"  />
+  </a>
+    </td>
   </tr>
+  
   <tr>
-    <td class="tg-0lax">Perfil</td>
+    <td class="tg-0lax">
+    <a href="mailto:ednaldocaetanoguedes@gmail.com">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="30" alt="Enviar email..."  />
+    </a>  
+    </td>
   </tr>
 </thead>
 </table>
+
+###
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=edcaetanoguedes&" hidden="true"  />
+
 ###
 
 <h2 align="center">Hello, you can call me Eddye. 👋</h2>
