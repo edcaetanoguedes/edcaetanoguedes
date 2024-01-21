@@ -6,7 +6,7 @@
 
 <table class="tg" style="undefined;table-layout: fixed;">
 <colgroup>
-<col style="width: 82px">
+<col style="width: 100px">
 <col style="width: 258px">
 </colgroup>
 <thead>
