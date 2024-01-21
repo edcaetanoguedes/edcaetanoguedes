@@ -7,10 +7,10 @@
 
 ###
 
-<h1 align="center">Hello, you can call me Eddye. 👋</h1>
-<p>Olá, pode me chamar de Eddye.</p>
-<h2>I am a Brazilian Full Stack developer.</h2>
-<p>Eu sou um Desenvolvedor FullStack brasileiro.</p>
+<h2 align="center">Hello, you can call me Eddye. 👋</h2>
+<p align="center">Olá, pode me chamar de Eddye.</p>
+<h1 align="center">I am a Brazilian Full Stack developer.</h1>
+<p align="center">Eu sou um Desenvolvedor FullStack brasileiro.</p>
 
 ###
 
