@@ -17,11 +17,14 @@
 ###
 
 <h1 align="center">Hello, you can call me Eddye. 👋</h1>
+<p>Olá, pode me chamar de Eddye.</p>
 <h2>I am a Brazilian Full Stack developer.</h2>
+<p>Eu sou um Desenvolvedor FullStack brasileiro.</p>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<p>Sobre mim</p>
 
 ###
 
