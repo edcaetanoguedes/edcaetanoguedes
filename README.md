@@ -13,7 +13,7 @@
     </td>
     <td>
       <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source" />
-      <div>
+      <div style="height: 60px">
       <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="Perfil do Linkedin" />
   </a>
