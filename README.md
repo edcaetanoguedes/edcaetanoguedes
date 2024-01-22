@@ -18,7 +18,7 @@
   </a>
     </td>
     <td rowspan="3">
-      <img src="teste00001.svg" style="width: 100%; height: 150px;" alt="Click to see the source" />
+      <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source" />
     </td>
   </tr>
   
