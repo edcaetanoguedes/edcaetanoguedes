@@ -21,8 +21,8 @@
     <td rowspan="3">
       ## Hello, you can call me Eddye. 👋
       #### Olá, pode me chamar de Eddye.
-      # align="center">I am a Brazilian Full Stack developer.
-      ###align="center">Eu sou um Desenvolvedor FullStack brasileiro.
+      # I am a Brazilian Full Stack developer.
+      ### Eu sou um Desenvolvedor FullStack brasileiro.
     </td>
   </tr>
   
