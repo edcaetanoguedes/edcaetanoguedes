@@ -1,9 +1,3 @@
-<div style="width: 100%;">
-  <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source" />
-</div>
-
-###
-
 <div align="center">
 
 <table>
