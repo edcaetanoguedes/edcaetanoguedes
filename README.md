@@ -1,6 +1,6 @@
 <div align="center">
 
-<table style="max-heigth: 250px;">
+<table>
 <colgroup>
 <col style="width: 100px">
   <col style="width: 258px">
@@ -8,7 +8,7 @@
 <thead>
   <tr>
     <td>
-      <img height="150" src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow"  />
+      <img height="200" src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow"  />
     </td>
     <td>
       <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source" />
