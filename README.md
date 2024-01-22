@@ -19,8 +19,7 @@
   </a>
     </td>
     <td rowspan="3">
-      ## Hello, you can call me Eddye. 👋
-      #### Olá, pode me chamar de Eddye.
+      <h2>Hello, you can call me Eddye. 👋 <sub>Olá, pode me chamar de Eddye.</sub></h2>
       # I am a Brazilian Full Stack developer.
       ### Eu sou um Desenvolvedor FullStack brasileiro.
     </td>
