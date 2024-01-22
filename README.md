@@ -18,7 +18,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="Perfil do Linkedin" />
   </a>
     </td>
-    <td rowspan="3"></td>
+    <td rowspan="3">
+      ## Hello, you can call me Eddye. 👋
+      #### Olá, pode me chamar de Eddye.
+      # align="center">I am a Brazilian Full Stack developer.
+      ###align="center">Eu sou um Desenvolvedor FullStack brasileiro.
+    </td>
   </tr>
   
   <tr>
@@ -45,13 +50,6 @@
 ###
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=edcaetanoguedes&" hidden="true"  />
-
-###
-
-<h2 align="center">Hello, you can call me Eddye. 👋</h2>
-<p align="center">Olá, pode me chamar de Eddye.</p>
-<h1 align="center">I am a Brazilian Full Stack developer.</h1>
-<p align="center">Eu sou um Desenvolvedor FullStack brasileiro.</p>
 
 ###
 
