@@ -9,34 +9,32 @@
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-mk6l" rowspan="3">
+    <td rowspan="3">
       <img height="150" src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow"  />
     </td>
     
-  <td class="tg-mk6l">
+  <td>
       <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="Perfil do Linkedin" />
   </a>
     </td>
-    <td class="tg-0pky"></td>
+    <td rowspan="3"></td>
   </tr>
   
   <tr>
-    <td class="tg-0lax">
+    <td>
       <a href="https://www.instagram.com/egbsdev">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Perfil do Instagram"  />
   </a>
     </td>
-    <td class="tg-0pky"></td>
   </tr>
   
   <tr>
-    <td class="tg-0lax">
+    <td>
     <a href="mailto:ednaldocaetanoguedes@gmail.com">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="30" alt="Enviar email..."  />
     </a>  
     </td>
-    <td class="tg-0pky"></td>
   </tr>
 
 </thead>
