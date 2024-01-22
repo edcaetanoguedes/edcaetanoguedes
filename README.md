@@ -18,6 +18,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="Perfil do Linkedin" />
   </a>
     </td>
+    <td class="tg-0pky"></td>
   </tr>
   
   <tr>
@@ -38,9 +39,6 @@
     <td class="tg-0pky"></td>
   </tr>
 
-  <tr>
-    <td class="tg-0pky"></td>
-  </tr>
 </thead>
 </table>
   
