@@ -1,7 +1,7 @@
 
 <div align="left">
 
-<table class="tg" style="undefined;table-layout: fixed; border-color: #0000">
+<table class="tg" style="table-layout: fixed;border-color: #0f0">
 <colgroup>
 <col style="width: 100px">
 <col style="width: 258px">
