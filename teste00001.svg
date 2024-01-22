@@ -14,62 +14,16 @@
           color: white;
         }
 
-        table {
-          border-color: #0f0;
-          background-color: #0000;
+        p {
+          font-size: 12px;
         }
       </style>
 
       <div class="container">
-        <table>
-          <colgroup>
-            <col style="width: 100px">
-            <col style="width: 258px">
-            <col style="width: 258px">
-          </colgroup>
-          <thead>
-            <tr>
-              <td rowspan="3">
-                <img height="150"
-                  src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
-              </td>
-
-              <td>
-                <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-                  <img
-                    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-                    width="30" height="30" alt="Perfil do Linkedin" />
-                </a>
-              </td>
-              <td rowspan="3">
-                <h2>Hello, you can call me Eddye. 👋 <sub>Olá, pode me chamar de Eddye.</sub></h2>
-                # I am a Brazilian Full Stack developer.
-                ### Eu sou um Desenvolvedor FullStack brasileiro.
-              </td>
-            </tr>
-
-            <tr>
-              <td>
-                <a href="https://www.instagram.com/egbsdev">
-                  <img
-                    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-                    width="30" height="30" alt="Perfil do Instagram" />
-                </a>
-              </td>
-            </tr>
-
-            <tr>
-              <td>
-                <a href="mailto:ednaldocaetanoguedes@gmail.com">
-                  <img
-                    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-                    width="26" height="30" alt="Enviar email..." />
-                </a>
-              </td>
-            </tr>
-
-          </thead>
-        </table>
+        <h2>Hello, you can call me Eddye 👋</h2>
+        <p>Olá, pode me chamar de Eddye.</p>
+        <h1>I am a Brazilian Full Stack developer.</h1>
+        <p>Eu sou um Desenvolvedor FullStack brasileiro.</p>>
       </div>
     </div>
   </foreignObject>
