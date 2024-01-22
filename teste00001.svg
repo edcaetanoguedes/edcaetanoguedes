@@ -25,13 +25,17 @@
         p {
           font-size: 14px;
         }
+
+        span {
+          color: #905;
+        }
       </style>
 
       <div class="container">
-        <h2>Hello, you can call me Eddye 👋</h2>
-        <p>Olá, pode me chamar de Eddye.</p>
-        <h1>I am a Brazilian Full Stack developer.</h1>
-        <p>Eu sou um Desenvolvedor FullStack brasileiro.</p>
+        <h2>Hello, you can call me <span>Eddye</span> 👋</h2>
+        <p>Olá, pode me chamar de <span>Eddye</span>.</p>
+        <h1>I am a Brazilian <span>Full Stack Developer</span>.</h1>
+        <p>Eu sou um <span>Desenvolvedor FullStack</span> brasileiro.</p>
       </div>
     </div>
   </foreignObject>
