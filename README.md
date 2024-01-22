@@ -1,6 +1,6 @@
 <div align="center">
 
-<table>
+<table style="max-heigth: 250px;">
 <colgroup>
 <col style="width: 100px">
   <col style="width: 258px">
