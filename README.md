@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source"
+  <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source" />
 </div>
 
 ###
@@ -24,9 +24,7 @@
   </a>
     </td>
     <td rowspan="3">
-      <h2>Hello, you can call me Eddye. 👋 <sub>Olá, pode me chamar de Eddye.</sub></h2>
-      # I am a Brazilian Full Stack developer.
-      ### Eu sou um Desenvolvedor FullStack brasileiro.
+      <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source" />
     </td>
   </tr>
   
