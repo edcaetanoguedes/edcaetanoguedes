@@ -3,7 +3,6 @@
 <table>
 <colgroup>
 <col style="width: 100px">
-<col style="width: 258px">
   <col style="width: 258px">
 </colgroup>
 <thead>
