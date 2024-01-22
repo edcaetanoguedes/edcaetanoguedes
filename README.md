@@ -12,7 +12,6 @@
     </td>
     <td>
       <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source" />
-      <div style="height: 60px">
       <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="Perfil do Linkedin" />
   </a>
@@ -24,7 +23,6 @@
   <a href="mailto:ednaldocaetanoguedes@gmail.com">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="30" alt="Enviar email..."  />
     </a>
-      </div>
     </td>
   </tr>
   
