@@ -8,35 +8,27 @@
 </colgroup>
 <thead>
   <tr>
-    <td rowspan="3">
+    <td>
       <img height="150" src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow"  />
     </td>
-    
-  <td>
+    <td>
+      <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source" />
+      <div>
       <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="Perfil do Linkedin" />
   </a>
-    </td>
-    <td rowspan="3">
-      <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <a href="https://www.instagram.com/egbsdev">
+
+  <a href="https://www.instagram.com/egbsdev">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Perfil do Instagram"  />
   </a>
+
+  <a href="mailto:ednaldocaetanoguedes@gmail.com">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="30" alt="Enviar email..."  />
+    </a>
+      </div>
     </td>
   </tr>
   
-  <tr>
-    <td>
-    <a href="mailto:ednaldocaetanoguedes@gmail.com">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="30" alt="Enviar email..."  />
-    </a>  
-    </td>
-  </tr>
 
 </thead>
 </table>
