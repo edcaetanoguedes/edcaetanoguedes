@@ -1,6 +1,6 @@
 <p align="center">
   <img loading="lazy"
-    src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" />
+    src="http://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRUÇÃO&color=GREEN&style=for-the-badge" />
 </p>
 
 ###
@@ -13,37 +13,32 @@
 
 ###
 
-<table width="100%">
-  <colgroup>
-    <col style="width: 200px">
-    <col style="width: 500px">
-  </colgroup>
+<table>
   <thead>
   </thead>
   <tr align="left">
-    <td>
-      <img width="150" height="150"
+    <td style="display: grid; height: 200px; border-color: #fff2; overflow: hidden;">
+      <img width="150" height="150" style="border-radius: 50%;"
         src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
+      <div align="left" style="display: flex; flex-direction: row; justify-content: center; padding-top: 15px;">
+        <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
+          <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
+        </a>
+        <img width="4px" alt=""" />
+          <a href=" https://www.instagram.com/egbsdev">
+        <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
+        </a>
+        <img width="4px" alt=""" />
+          <a href=" mailto:ednaldocaetanoguedes@gmail.com">
+        <img src="/icons/twitter-color-svgrepo-com.svg" height="30" alt="Enviar email..." />
+        </a>
+      </div>
     </td>
     <td>
       <img width="100%" src="intro.svg" alt="Click to see the source" />
     </td>
   </tr>
 </table>
-
-###
-
-<a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-  <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
-</a>
-<img width="4px" />
-<a href="https://www.instagram.com/egbsdev">
-  <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
-</a>
-<img width="4px" />
-<a href="mailto:ednaldocaetanoguedes@gmail.com">
-  <img src="/icons/twitter-color-svgrepo-com.svg" height="30" alt="Enviar email..." />
-</a>
 
 ###
 
