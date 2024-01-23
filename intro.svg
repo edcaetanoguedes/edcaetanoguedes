@@ -7,9 +7,10 @@
 
           display: flex;
           flex-direction: column;
-          align-items: start;
+          align-items: center;
 
           width: 100%;
+          max-height: 250px;
 
           background-color: #0000;
           color: white;
@@ -25,22 +26,23 @@
         }
 
         h2 {
-          font-size: 32px;
+          font-size: 28px;
         }
 
         p {
           font-size: 15px;
+          color: #fff9;
         }
 
         span {
-          color: #f07;
+          color: #f09;
         }
       </style>
       <div class="container">
         <h2>Hello, you can call me <span>Eddye</span> 👋</h2>
-        <p>Olá, pode me chamar de <span>Eddye</span>.</p>
+        <p>Olá, pode me chamar de Eddye.</p>
         <h1>I am a Brazilian <span>Full Stack Developer</span>.</h1>
-        <p>Eu sou um <span>Desenvolvedor FullStack</span> brasileiro.</p>
+        <p>Eu sou um Desenvolvedor FullStack brasileiro.</p>
       </div>
     </div>
   </foreignObject>
