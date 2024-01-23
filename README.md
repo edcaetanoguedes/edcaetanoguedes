@@ -1,6 +1,5 @@
 <div align="center">
-
-  <table>
+  <table style="100%">
     <colgroup>
       <col style="width: 200px">
       <col style="width: 100%">
@@ -20,11 +19,11 @@
           <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
             <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
           </a>
-          <img width="8px" />
+          <img width="4px" />
           <a href="https://www.instagram.com/egbsdev">
             <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
           </a>
-          <img width="8px" />
+          <img width="4px" />
           <a href="mailto:ednaldocaetanoguedes@gmail.com">
             <img src="/icons/twitter-color-svgrepo-com.svg" height="30" alt="Enviar email..." />
           </a>
@@ -32,7 +31,6 @@
       </tr>
     </thead>
   </table>
-
 </div>
 
 ###
