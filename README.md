@@ -12,23 +12,7 @@
     </td>
     <td>
       <img src="teste00001.svg" style="width: 100%;" alt="Click to see the source" />
-      <div height="100">
-      <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-          width="30" height="30" alt="Perfil do Linkedin" />
-      </a>
-      <a href="https://www.instagram.com/egbsdev">
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-          width="30" height="30" alt="Perfil do Instagram" />
-      </a>
-      <a href="mailto:ednaldocaetanoguedes@gmail.com">
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-          width="26" height="30" alt="Enviar email..." />
-      </a>
-      </div>
+      <img src="social.svg" style="width: 100%;" alt="Click to see the source" />
     </td>
   </tr>
   
