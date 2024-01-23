@@ -18,11 +18,6 @@
 
 ###
 
-<h2>Hello, you can call me <span color="#f07">Eddye</span> 👋</h2>
-<p>Olá, pode me chamar de <span color="#f07">Eddye</span>.</p>
-
-###
-
 <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
   <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
 </a>
