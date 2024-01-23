@@ -7,7 +7,7 @@
 <div align="center">
   <img width="150" height="150"
     src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
-  <div align="left" style="display: flex; flex-direction: row; justify-content: center; padding-top: 15px;">
+  <div align="center" style="display: flex; flex-direction: row; justify-content: center; padding-top: 15px;">
     <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
       <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
     </a>
