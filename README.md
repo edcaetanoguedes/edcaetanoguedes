@@ -9,15 +9,15 @@
     src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
   <div align="center" style="display: flex; flex-direction: row; justify-content: center; padding-top: 15px;">
     <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-      <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Linkedin" />
+      <img src="/icons/linkedin-svgrepo-com.svg" height="30px" alt="Linkedin" />
     </a>
     <img width="4px" alt="" />
     <a href=" https://www.instagram.com/egbsdev">
-      <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Instagram" />
+      <img src="/icons/instagram-svgrepo-com.svg" height="30px" alt="Instagram" />
     </a>
     <img width="4px" alt="" />
     <a href=" mailto:ednaldocaetanoguedes@gmail.com">
-      <img src="/icons/twitter-color-svgrepo-com.svg" height="30" alt="Enviar email..." />
+      <img src="/icons/twitter-color-svgrepo-com.svg" height="30px" alt="Enviar email..." />
     </a>
   </div>
 </div>
