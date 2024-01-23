@@ -15,7 +15,6 @@
           <img src="intro.svg" style="width: 100%;" alt="Click to see the source" />
         </td>
       </tr>
-
       <tr>
         <td>
           <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
