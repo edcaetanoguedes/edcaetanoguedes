@@ -13,7 +13,7 @@
     <td>
       <img src="intro.svg" style="width: 100%;" alt="Click to see the source" />
       <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-        <img src="/icons/linkedin-svgrepo-com2.svg" height="50" alt="Perfil do Linkedin" />
+        <img src="/icons/linkedin-svgrepo-com.svg" height="50" alt="Perfil do Linkedin" />
       </a>
       <a href="https://www.instagram.com/egbsdev">
         <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
