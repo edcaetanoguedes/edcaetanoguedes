@@ -23,31 +23,31 @@
     <col style="width: 500">
   </colgroup>
   <thead>
-    <tr>
-      <td>
-        <img width="200" height="200"
-          src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
-      </td>
-      <td>
-        <img src="intro.svg" alt="Click to see the source" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-          <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
-        </a>
-        <img width="4px" />
-        <a href="https://www.instagram.com/egbsdev">
-          <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
-        </a>
-        <img width="4px" />
-        <a href="mailto:ednaldocaetanoguedes@gmail.com">
-          <img src="/icons/twitter-color-svgrepo-com.svg" height="30" alt="Enviar email..." />
-        </a>
-      </td>
-    </tr>
   </thead>
+  <tr>
+    <td rowspan="2">
+      <img width="100" height="100"
+        src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
+    </td>
+    <td>
+      <img src="intro.svg" alt="Click to see the source" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
+        <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
+      </a>
+      <img width="4px" />
+      <a href="https://www.instagram.com/egbsdev">
+        <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
+      </a>
+      <img width="4px" />
+      <a href="mailto:ednaldocaetanoguedes@gmail.com">
+        <img src="/icons/twitter-color-svgrepo-com.svg" height="30" alt="Enviar email..." />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ###
