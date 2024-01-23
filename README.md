@@ -17,7 +17,7 @@
   </thead>
   <tr align="left">
     <td style="display: grid; height: 200px; border-color: #fff2; overflow: hidden;">
-      <img width="150" height="150" style="border-radius: 50%;"
+      <img width="150" height="150" style="min-width: 150px; min-height: 150px; border-radius: 50%;"
         src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
       <div align="left" style="display: flex; flex-direction: row; justify-content: center; padding-top: 15px;">
         <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
