@@ -4,39 +4,30 @@
 
 ###
 
-<p align="left">
-  <img src="profile.svg" alt="Click to see the source" />
-  <img src="intro.svg" alt="Click to see the source" />
-</p>
+<div align="center">
+  <img width="150" height="150"
+    src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
+  <div align="left" style="display: flex; flex-direction: row; justify-content: center; padding-top: 15px;">
+    <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
+      <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
+    </a>
+    <img width="4px" alt="" />
+    <a href=" https://www.instagram.com/egbsdev">
+      <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
+    </a>
+    <img width="4px" alt="" />
+    <a href=" mailto:ednaldocaetanoguedes@gmail.com">
+      <img src="/icons/twitter-color-svgrepo-com.svg" height="30" alt="Enviar email..." />
+    </a>
+  </div>
+</div>
+
 
 ###
 
-<table>
-  <thead>
-  </thead>
-  <tr align="left">
-    <td style="display: grid; height: 200px; border-color: #0002; overflow: hidden;">
-      <img width="150" height="150" style="min-width: 150px; min-height: 150px; border-radius: 50%;"
-        src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
-      <div align="left" style="display: flex; flex-direction: row; justify-content: center; padding-top: 15px;">
-        <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-          <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
-        </a>
-        <img width="4px" alt="" />
-        <a href=" https://www.instagram.com/egbsdev">
-          <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
-        </a>
-        <img width="4px" alt="" />
-        <a href=" mailto:ednaldocaetanoguedes@gmail.com">
-          <img src="/icons/twitter-color-svgrepo-com.svg" height="30" alt="Enviar email..." />
-        </a>
-      </div>
-    </td>
-    <td style="border: 1px solid #0002">
-      <img width="100%" src="intro.svg" alt="Click to see the source" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="700px" src="intro.svg" alt="Click to see the source" />
+</p>
 
 ###
 
