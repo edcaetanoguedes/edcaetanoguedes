@@ -1,6 +1,17 @@
 <div align="left">
   <img width="150"
     src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
+  <div align="left">
+    <h2>Hello, you can call me <span>Eddye</span> 👋</h2>
+    <p>Olá, pode me chamar de <span>Eddye</span>.</p>
+    <h1>I am a Brazilian <span>Full Stack Developer</span>.</h1>
+    <p>Eu sou um <span>Desenvolvedor FullStack</span> brasileiro.</p>
+  </div>
+</div>
+
+<div align="left">
+  <img width="150"
+    src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
   <img src="intro.svg" height="200" alt="Click to see the source" />
 </div>
 
