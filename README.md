@@ -1,9 +1,4 @@
 <div align="left">
-  <style>
-    svg {
-      background-color: #f005;
-    }
-  </style>
   <img width="150"
     src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
   <img src="intro.svg" height="200" alt="Click to see the source" />
