@@ -1,9 +1,22 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-        <img src="/icons/linkedin-svgrepo-com.svg" width="30" height="30" alt="Perfil do Linkedin" />
-      </a>
+      <style>
+        .social {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+
+          max-height: 70px;
+
+          border: 1px solid #0f0;
+        }
+      </style>
+      <div class="social">
+        <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
+          <img src="/icons/linkedin-svgrepo-com.svg" width="30" height="30" alt="Perfil do Linkedin" />
+        </a>
+      </div>
     </div>
   </foreignObject>
 </svg>
