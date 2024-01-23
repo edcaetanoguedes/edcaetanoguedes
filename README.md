@@ -1,7 +1,7 @@
 <table>
   <colgroup>
     <col style="width: 200px">
-    <col style="width: 500">
+    <col style="width: 500px">
   </colgroup>
   <thead>
   </thead>
@@ -12,20 +12,23 @@
     </td>
     <td>
       <img src="intro.svg" alt="Click to see the source" />
-      <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-        <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
-      </a>
-      <img width="4px" />
-      <a href="https://www.instagram.com/egbsdev">
-        <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
-      </a>
-      <img width="4px" />
-      <a href="mailto:ednaldocaetanoguedes@gmail.com">
-        <img src="/icons/twitter-color-svgrepo-com.svg" height="30" alt="Enviar email..." />
-      </a>
     </td>
   </tr>
 </table>
+
+###
+
+<a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
+  <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
+</a>
+<img width="4px" />
+<a href="https://www.instagram.com/egbsdev">
+  <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
+</a>
+<img width="4px" />
+<a href="mailto:ednaldocaetanoguedes@gmail.com">
+  <img src="/icons/twitter-color-svgrepo-com.svg" height="30" alt="Enviar email..." />
+</a>
 
 ###
 
