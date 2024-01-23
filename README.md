@@ -9,11 +9,11 @@
     src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
   <div align="center" style="display: flex; flex-direction: row; justify-content: center; padding-top: 15px;">
     <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-      <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Perfil do Linkedin" />
+      <img src="/icons/linkedin-svgrepo-com.svg" height="30" alt="Linkedin" />
     </a>
     <img width="4px" alt="" />
     <a href=" https://www.instagram.com/egbsdev">
-      <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Perfil do Instagram" />
+      <img src="/icons/instagram-svgrepo-com.svg" height="30" alt="Instagram" />
     </a>
     <img width="4px" alt="" />
     <a href=" mailto:ednaldocaetanoguedes@gmail.com">
@@ -84,18 +84,15 @@
 
 ###
 
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg"
+  alt="" />
+
+###
+
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=edcaetanoguedes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-    height="150" alt="stats graph" />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=edcaetanoguedes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
     height="150" alt="languages graph" />
 </div>
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
