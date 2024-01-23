@@ -1,41 +1,41 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <style>
-      div {
-        background-color: #ff05
-      }
-
-      .container {
-        font-family: Arial, Helvetica, sans-serif;
-
-        display: flex;
-        flex-direction: column;
-        align-items: start;
-
-        width: 100%;
-
-        border: 1px solid #0f0;
-        background-color: #0000;
-        color: white;
-      }
-
-      h1,
-      h2,
-      p {
-        padding: 0;
-        margin: 0;
-        margin-bottom: 10px;
-      }
-
-      p {
-        font-size: 14px;
-      }
-
-      span {
-        color: #f07;
-      }
-    </style>
     <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        div {
+          background-color: #ff05
+        }
+
+        .container {
+          font-family: Arial, Helvetica, sans-serif;
+
+          display: flex;
+          flex-direction: column;
+          align-items: start;
+
+          width: 100%;
+
+          border: 1px solid #0f0;
+          background-color: #0000;
+          color: white;
+        }
+
+        h1,
+        h2,
+        p {
+          padding: 0;
+          margin: 0;
+          margin-bottom: 10px;
+        }
+
+        p {
+          font-size: 14px;
+        }
+
+        span {
+          color: #f07;
+        }
+      </style>
       <div class="container">
         <img width="150"
           src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
