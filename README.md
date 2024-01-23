@@ -7,7 +7,7 @@
   </thead>
   <tr align="left">
     <td rowspan="2">
-      <img width="100" height="100"
+      <img width="200" height="100"
         src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
     </td>
     <td>
