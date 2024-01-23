@@ -1,5 +1,9 @@
+<img src="intro.svg" alt="Click to see the source" />
+
+###
+
 <div align="center">
-  <table style="100%">
+  <table>
     <colgroup>
       <col style="width: 200px">
       <col style="width: 100%">

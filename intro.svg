@@ -1,47 +1,56 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-  <style>
-        div {
-          padding: 0;
-          margin: 0;
-        }
-        .container {
-          font-family: Arial, Helvetica, sans-serif;
+    <style>
+      .container {
+        font-family: Arial, Helvetica, sans-serif;
 
-          display: flex;
-          flex-direction: column;
-          align-items: start;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
 
-          width: 100%;
-          max-height: 170px;
+        width: 100%;
 
-          border: 1px solid #0f0;
-          background-color: #0000;
-          color: white;
-        }
+        border: 1px solid #0f0;
+        background-color: #0000;
+        color: white;
+      }
 
-        h1,
-        h2,
-        p {
-          padding: 0;
-          margin: 0;
-          margin-bottom: 10px;
-        }
+      .photo {
+        border: 1px solid #f00;
+      }
 
-        p {
-          font-size: 14px;
-        }
+      .text {
+        border: 1px solid #ff0;
+      }
 
-        span {
-          color: #f05;
-        }
-      </style>
+      h1,
+      h2,
+      p {
+        padding: 0;
+        margin: 0;
+        margin-bottom: 10px;
+      }
+
+      p {
+        font-size: 14px;
+      }
+
+      span {
+        color: #f05;
+      }
+    </style>
     <div xmlns="http://www.w3.org/1999/xhtml">
       <div class="container">
-        <h2>Hello, you can call me <span>Eddye</span> 👋</h2>
-        <p>Olá, pode me chamar de <span>Eddye</span>.</p>
-        <h1>I am a Brazilian <span>Full Stack Developer</span>.</h1>
-        <p>Eu sou um <span>Desenvolvedor FullStack</span> brasileiro.</p>
+        <div class="photo">
+          <img width="200" height="200"
+            src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
+        </div>
+        <div class="text">
+          <h2>Hello, you can call me <span>Eddye</span> 👋</h2>
+          <p>Olá, pode me chamar de <span>Eddye</span>.</p>
+          <h1>I am a Brazilian <span>Full Stack Developer</span>.</h1>
+          <p>Eu sou um <span>Desenvolvedor FullStack</span> brasileiro.</p>
+        </div>
       </div>
     </div>
   </foreignObject>
