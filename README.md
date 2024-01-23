@@ -30,7 +30,6 @@
           </a>
         </td>
       </tr>
-
     </thead>
   </table>
 
