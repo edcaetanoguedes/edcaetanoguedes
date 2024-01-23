@@ -2,21 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-          width="30" height="30" alt="Perfil do Linkedin" />
-      </a>
-
-      <a href="https://www.instagram.com/egbsdev">
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-          width="30" height="30" alt="Perfil do Instagram" />
-      </a>
-
-      <a href="mailto:ednaldocaetanoguedes@gmail.com">
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-          width="26" height="30" alt="Enviar email..." />
+        <img src="/icons/linkedin-svgrepo-com.svg" width="30" height="30" alt="Perfil do Linkedin" />
       </a>
     </div>
   </foreignObject>
