@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <colgroup>
     <col style="width: 200px">
     <col style="width: 500px">
