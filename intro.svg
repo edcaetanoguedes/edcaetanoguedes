@@ -16,14 +16,6 @@
           color: white;
         }
 
-        .photo {
-          border: 1px solid #f00;
-        }
-
-        .text {
-          border: 1px solid #ff0;
-        }
-
         h1,
         h2,
         p {
@@ -41,12 +33,10 @@
         }
       </style>
       <div class="container">
-        <div class="text">
-          <h2>Hello, you can call me <span>Eddye</span> 👋</h2>
-          <p>Olá, pode me chamar de <span>Eddye</span>.</p>
-          <h1>I am a Brazilian <span>Full Stack Developer</span>.</h1>
-          <p>Eu sou um <span>Desenvolvedor FullStack</span> brasileiro.</p>
-        </div>
+        <h2>Hello, you can call me <span>Eddye</span> 👋</h2>
+        <p>Olá, pode me chamar de <span>Eddye</span>.</p>
+        <h1>I am a Brazilian <span>Full Stack Developer</span>.</h1>
+        <p>Eu sou um <span>Desenvolvedor FullStack</span> brasileiro.</p>
       </div>
     </div>
   </foreignObject>
