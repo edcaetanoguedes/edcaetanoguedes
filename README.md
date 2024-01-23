@@ -14,7 +14,7 @@
       <img src="intro.svg" style="width: 100%;" alt="Click to see the source" />
       <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
         <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+          src="/icons/linkedin-svgrepo-com.svg"
           width="30" height="30" alt="Perfil do Linkedin" />
       </a>
       <a href="https://www.instagram.com/egbsdev">
