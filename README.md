@@ -37,7 +37,14 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<img src="/languages.svg" alt="" width="900px" />
+
+###
+
+<h3 align="left">
+  <img src="/icons//tools-svgrepo-com.svg" alt="" width="28" height="28" />
+  Language and tools
+</h3>
 
 ###
 
