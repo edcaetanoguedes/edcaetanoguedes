@@ -18,8 +18,8 @@
       <img src="/icons/linkedin-svgrepo-com.svg" height="35px" alt="Linkedin" />
     </a>
     <img width="3px" alt="" />
-
-    <img src="/icons/instagram-svgrepo-com.svg" height="30px" alt="Instagram" />
+    <a href=" https://www.instagram.com/egbsdev">
+      <img src="/icons/instagram-svgrepo-com.svg" height="30px" alt="Instagram" />
     </a>
   </div>
   <div class="social" align="center">
