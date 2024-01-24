@@ -27,7 +27,7 @@
 ###
 
 <p align="center">
-  <img width="700px" src="intro.svg" alt="Click to see the source" />
+  <img width="100%" src="intro.svg" alt="Click to see the source" />
 </p>
 
 ###
