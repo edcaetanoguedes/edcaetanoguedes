@@ -18,7 +18,7 @@
       <img src="/icons/linkedin-svgrepo-com.svg" height="35px" alt="Linkedin" />
     </a>
     <img width="3px" alt="" />
-    <a href=" https://www.instagram.com/ednaldocaetanoguedes">
+    <a href="https://www.instagram.com/ednaldocaetanoguedes">
       <img src="/icons/instagram-svgrepo-com.svg" height="30px" alt="Instagram" />
     </a>
   </div>
