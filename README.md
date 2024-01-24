@@ -34,7 +34,9 @@
 </p>
 
 <img class="aboutme" src="/aboutme.svg" alt="" width="900px" />
+
 ###
+
 <img class="languages" src="/languages.svg" alt="" width="900px" />
 
 <div class="languages" align="left">
