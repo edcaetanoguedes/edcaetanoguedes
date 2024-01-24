@@ -13,11 +13,11 @@
     <a href="https://egbsdev.com.br">
       <img width="100px" src="portfolio.svg" alt="Click to see the source" />
     </a>
-    <img width="4px" alt="" />
+    <img width="3px" alt="" />
     <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
       <img src="/icons/linkedin-svgrepo-com.svg" height="35px" alt="Linkedin" />
     </a>
-    <img width="4px" alt="" />
+    <img width="3px" alt="" />
     <a href=" https://www.instagram.com/egbsdev">
       <img src="/icons/instagram-svgrepo-com.svg" height="30px" alt="Instagram" />
     </a>
