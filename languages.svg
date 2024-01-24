@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%" style="border: 1px solid #f00;">
+<svg fill="none" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .languages {
@@ -12,7 +12,6 @@
           justify-content: center;
 
           width: 100%;
-
         }
 
         .languages>.header {
@@ -24,18 +23,17 @@
           flex-direction: row;
           align-items: center;
         }
-        
+
         .languages>.header h3>sup {
           font-weight: 400;
           font-size: 14px;
           color: #fff5;
+          margin-left: 5px;
         }
       </style>
       <div class="languages">
         <div class="header">
-          <h3>
-          <img src="/icons//tools-svgrepo-com.svg" alt="" width="28" height="28" />
-           Languages and Tools <sup> Linguagens e Ferramentas</sup></h3>
+          <h3>🛠️ Languages and Tools <sup> Linguagens e Ferramentas</sup></h3>
         </div>
       </div>
     </div>

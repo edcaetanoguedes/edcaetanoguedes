@@ -41,13 +41,6 @@
 
 ###
 
-<h3 align="left">
-  <img src="/icons//tools-svgrepo-com.svg" alt="" width="28" height="28" />
-  Language and tools
-</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
     alt="ruby logo" />
