@@ -1,0 +1,62 @@
+<svg fill="none" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .aboutme {
+          font-family: Arial, Helvetica, sans-serif;
+          color: #fff;
+
+          display: flex;
+          flex-direction: column;
+          align-items: start;
+          justify-content: center;
+
+          width: 100%;
+
+        }
+
+        p {
+          padding: 0;
+          margin: 0;
+        }
+
+        .aboutme>.header {
+          margin-bottom: 10px;
+        }
+
+        .aboutme>.header h3>sup {
+          font-weight: 400;
+          font-size: 14px;
+          color: #fff5;
+        }
+
+        .aboutme>.content p.english {
+          font-size: 16px;
+          margin-bottom: 3px;
+        }
+
+        .aboutme>.content p:not(.english) {
+          font-size: 14px;
+          color: #fff5;
+          margin-bottom: 6px;
+        }
+      </style>
+      <div class="aboutme">
+        <div class="header">
+          <h3>👩‍💻 About me <sup> Sobre mim</sup></h3>
+        </div>
+        <div class="content">
+          <p class="english">-🔭 At the moment, I work as a Freelancer developing applications, mainly Web.</p>
+          <p>- No momento, eu trabalho como Freelancer desenvolvendo aplicações, principalmente aplicações Web.</p>
+          <p class="english">-📚 I'm currently delving deeper into React Native, and in parallel Pentest.</p>
+          <p>- Atualmente eu estou me aprofundando em React Native, e em paralelo sobre Pentest.</p>
+          <p class="english">-⚡ In my free time I like to read (various topics), seek information from theology to
+            science
+            and technology (complicated things lol).</p>
+          <p>- No meu tempo livre eu gosto de ler (diversos temas), buscar informações desde teologia à ciência e
+            tecnologia (coisas complicadas kkk).</p>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

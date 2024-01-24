@@ -25,7 +25,11 @@
           text-align: center;
           padding: 0;
           margin: 0;
-          margin-bottom: 10px;
+        }
+
+        h1, h2 {
+          margin-top: 3px;
+          margin-top: 15px;
         }
 
         h2 {
