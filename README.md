@@ -5,11 +5,11 @@
 
 ###
 
-<div align="center">
+<div class="profile" align="center">
   <img width="150" height="150"
     src="https://media.licdn.com/dms/image/D4D03AQEZQX9lxXUIuA/profile-displayphoto-shrink_800_800/0/1693006895045?e=1711584000&v=beta&t=fbvBhuO6Dy0et_nZAh46Wp3deXvNmsLXsEiBNxdDjow" />
   <img height="8px" alt="" />
-  <div align="center">
+  <div class="social" align="center">
     <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
       <img src="/icons/linkedin-svgrepo-com.svg" height="30px" alt="Linkedin" />
     </a>
@@ -22,20 +22,17 @@
       <img src="/icons/twitter-color-svgrepo-com.svg" height="30px" alt="Enviar email..." />
     </a>
   </div>
+  <div class="social" align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=edcaetanoguedes&" />
+  </div>
 </div>
 
 
 ###
 
-<p align="center">
+<p class="intro" align="center">
   <img width="700px" src="intro.svg" alt="Click to see the source" />
 </p>
-
-###
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=edcaetanoguedes&" hidden="true" />
-
-###
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p>Sobre mim</p>
