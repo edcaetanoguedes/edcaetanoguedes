@@ -62,13 +62,6 @@
 
 ###
 
-<div class="most_used_languages" align="left">
-  <img alt="" width="400"
-    src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt="" />
-</div>
-
-###
-
 <div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=edcaetanoguedes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
