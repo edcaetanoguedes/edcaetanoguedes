@@ -33,13 +33,11 @@
   <img width="700px" src="intro.svg" alt="Click to see the source" />
 </p>
 
-<img src="/aboutme.svg" alt="" width="900px" />
-
+<img class="aboutme" src="/aboutme.svg" alt="" width="900px" />
 ###
+<img class="languages" src="/languages.svg" alt="" width="900px" />
 
-<img src="/languages.svg" alt="" width="900px" />
-
-<div align="left">
+<div class="languages" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
     alt="ruby logo" />
   <img width="12" />
@@ -64,12 +62,14 @@
 
 ###
 
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg"
-  alt="" />
+<div class="most_used_languages" align="left">
+  <img alt="" width="400"
+    src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt="" />
+</div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=edcaetanoguedes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
     height="150" alt="languages graph" />
