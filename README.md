@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRUÇÃO&color=GREEN&style=for-the-badge" />
+  <img
+    src="https://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRU%C3%87%C3%83O&color=GREEN&style=for-the-badge" />
 </p>
 
 ###
