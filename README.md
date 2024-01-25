@@ -64,7 +64,68 @@
 
 ###
 
-<!--<div align="left">
+<img alt="" height="50px" />
+<h2>Projetos</h2>
+
+<table class="Websites">
+  <thead>
+    <tr>
+      <td colspan="3">
+        <h4>Websites</h4>
+      </td>
+    </tr>
+  </thead>
+  <tr>
+    <td>Antenados Sat</td>
+    <td>Site comercial do setor de telecomunicações</td>
+    <td>
+      <a href="https://antenadossat.com.br">Ver site</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Decor Móveis Planejados</td>
+    <td>Site comercial do setor de moveleiro</td>
+    <td>
+      <a href="https://decorplanejados.com.br">Ver site</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Alta Classe Móveis Planejados</td>
+    <td>Site comercial do setor de moveleiro</td>
+    <td>
+      <a href="https://moveisplanejados3-3md4svvor-edcaetanoguedes.vercel.app">Ver site</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Orka Móveis Planejados</td>
+    <td>Site comercial do setor de moveleiro</td>
+    <td>
+      <a href="https://orkaplanejados.com.br">Ver site</a>
+    </td>
+  </tr>
+</table>
+
+<!--
+  
+<table class="Material de Estudo">
+  <thead>
+    <tr>
+      <td colspan="3">
+        <h3>Material de Estudo</h3>
+      </td>
+    </tr>
+  </thead>
+  <tr>
+    <td>Cursos Gratuitos (Segurança da Informação)</td>
+    <td>
+      <a href="https://github.com/edcaetanoguedes/cursosTI">Ver lista</a>
+    </td>
+  </tr>
+</table>
+
+###
+
+<div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=edcaetanoguedes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
     alt="" height="150" />
