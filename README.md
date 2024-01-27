@@ -76,31 +76,64 @@
     </tr>
   </thead>
   <tr>
-    <td>Antenados Sat</td>
+    <td>
+      <a href="https://antenadossat.com.br">Antenados Sat</a>
+    </td>
     <td>Site comercial do setor de telecomunicações</td>
     <td>
-      <a href="https://antenadossat.com.br">Ver site</a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
+        alt="react logo" />
     </td>
   </tr>
   <tr>
-    <td>Decor Móveis Planejados</td>
+    <td>
+      <a href="https://decorplanejados.com.br">Decor Móveis Planejados</a>
+    </td>
     <td>Site comercial do setor de moveleiro</td>
     <td>
-      <a href="https://decorplanejados.com.br">Ver site</a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
+        alt="react logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"
+        alt="next js logo" />
     </td>
   </tr>
   <tr>
-    <td>Alta Classe Móveis Planejados</td>
+    <td>
+      <a href="https://moveisplanejados3-3md4svvor-edcaetanoguedes.vercel.app">Alta Classe Móveis Planejados</a>
+    </td>
     <td>Site comercial do setor de moveleiro</td>
     <td>
-      <a href="https://moveisplanejados3-3md4svvor-edcaetanoguedes.vercel.app">Ver site</a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
+        alt="react logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"
+        alt="next js logo" />
     </td>
   </tr>
   <tr>
-    <td>Orka Móveis Planejados</td>
+    <td>
+      <a href="https://orkaplanejados.com.br">Orka Móveis Planejados</a>
+    </td>
     <td>Site comercial do setor de moveleiro</td>
     <td>
-      <a href="https://orkaplanejados.com.br">Ver site</a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
+        alt="react logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"
+        alt="next js logo" />
     </td>
   </tr>
 </table>
