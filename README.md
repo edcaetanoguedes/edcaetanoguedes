@@ -92,7 +92,7 @@
     <td>
       <a href="https://decorplanejados.com.br">Decor Móveis Planejados</a>
     </td>
-    <td>Site comercial do setor de moveleiro</td>
+    <td>Site comercial do setor moveleiro</td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
         alt="javascript logo" />
@@ -108,7 +108,7 @@
     <td>
       <a href="https://moveisplanejados3-3md4svvor-edcaetanoguedes.vercel.app">Alta Classe Móveis Planejados</a>
     </td>
-    <td>Site comercial do setor de moveleiro</td>
+    <td>Site comercial do setor moveleiro</td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
         alt="javascript logo" />
@@ -124,7 +124,7 @@
     <td>
       <a href="https://orkaplanejados.com.br">Orka Móveis Planejados</a>
     </td>
-    <td>Site comercial do setor de moveleiro</td>
+    <td>Site comercial do setor moveleiro</td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
         alt="javascript logo" />
