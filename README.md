@@ -77,16 +77,16 @@
 
   <tr>
     <td>
-      <h5>Projeto</h5>
+      <h4>Projeto</h4>
     </td>
     <td>
-      <h5>Intro</h5>
+      <h4>Intro</h4>
     </td>
     <td>
-      <h5>Links</h5>
+      <h4>Links</h4>
     </td>
     <td>
-      <h5>Skills</h5>
+      <h4>Skills</h4>
     </td>
   </tr>
 
@@ -121,16 +121,16 @@
   </thead>
   <tr>
     <td>
-      <h5>Projeto</h5>
+      <h4>Projeto</h4>
     </td>
     <td>
-      <h5>Intro</h5>
+      <h4>Intro</h4>
     </td>
     <td>
-      <h5>Links</h5>
+      <h4>Links</h4>
     </td>
     <td>
-      <h5>Skills</h5>
+      <h4>Skills</h4>
     </td>
   </tr>
 
