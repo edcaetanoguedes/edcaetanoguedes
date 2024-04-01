@@ -74,6 +74,7 @@
       </td>
     </tr>
   </thead>
+
   <tr>
     <td>
       <h5>Projeto</h5>
@@ -88,6 +89,7 @@
       <h5>Skills</h5>
     </td>
   </tr>
+
   <tr>
     <td>
       Calculadora [Público]
@@ -95,7 +97,7 @@
     <td>Calculadora desenvolvida em React. Layout responsivo.
     </td>
     <td>
-      <a href="">Ver Repositório</a>
+      <a href="https://github.com/edcaetanoguedes/calculator">Ver Repositório</a>
       </br>
       <a href="https://reactjs-calcultor.vercel.app">Ver Demo</a>
     </td>
