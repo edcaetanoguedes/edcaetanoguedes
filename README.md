@@ -94,7 +94,7 @@
     <td>
       Calculadora [Público]
     </td>
-    <td>Calculadora desenvolvida em React. Layout responsivo.
+    <td>Calculadora desenvolvida em React.
     </td>
     <td>
       <a href="https://github.com/edcaetanoguedes/calculator">Ver Repositório</a>
