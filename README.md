@@ -66,6 +66,24 @@
 <img alt="" height="50px" />
 <h2>Projetos</h2>
 
+<table class="proficiency">
+  <thead>
+    <tr>
+      <td>
+        <a href="https://reactjs-calcultor.vercel.app">Calculadora</a>
+      </td>
+      <td>Calculadora desenvolvida em React</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
+          alt="react logo" />
+        <img width="6" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+          alt="javascript logo" />
+      </td>
+    </tr>
+  </thead>
+</table>
+
 <table class="Websites">
   <thead>
     <tr>
@@ -80,11 +98,11 @@
     </td>
     <td>Site comercial do setor de telecomunicações</td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-        alt="javascript logo" />
-      <img width="6" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
         alt="react logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
     </td>
   </tr>
   <tr>
@@ -93,11 +111,11 @@
     </td>
     <td>Site comercial do setor moveleiro</td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-        alt="javascript logo" />
-      <img width="6" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
         alt="react logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
       <img width="6" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"
         alt="next js logo" />
@@ -109,11 +127,11 @@
     </td>
     <td>Site comercial do setor moveleiro</td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-        alt="javascript logo" />
-      <img width="6" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
         alt="react logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
       <img width="6" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"
         alt="next js logo" />
@@ -125,11 +143,11 @@
     </td>
     <td>Site comercial do setor moveleiro</td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-        alt="javascript logo" />
-      <img width="6" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
         alt="react logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
       <img width="6" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"
         alt="next js logo" />
