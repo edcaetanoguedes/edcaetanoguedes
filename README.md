@@ -69,35 +69,78 @@
 <table class="proficiency">
   <thead>
     <tr>
-      <td>
-        <a href="https://reactjs-calcultor.vercel.app">Calculadora</a>
-      </td>
-      <td>Calculadora desenvolvida em React</td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
-          alt="react logo" />
-        <img width="6" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-          alt="javascript logo" />
+      <td colspan="4">
+        <h3>Proficiência/Habilidades</h3>
       </td>
     </tr>
   </thead>
+  <tr>
+    <td>
+      <h5>Projeto</h5>
+    </td>
+    <td>
+      <h5>Intro</h5>
+    </td>
+    <td>
+      <h5>Links</h5>
+    </td>
+    <td>
+      <h5>Skills</h5>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Calculadora [Público]
+    </td>
+    <td>Calculadora desenvolvida em React. Layout responsivo.
+    </td>
+    <td>
+      <a href="">Ver Repositório</a>
+      </br>
+      <a href="https://reactjs-calcultor.vercel.app">Ver Demo</a>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
+        alt="react logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
+    </td>
+  </tr>
 </table>
 
 <table class="Websites">
   <thead>
     <tr>
-      <td colspan="3">
+      <td colspan="4">
         <h3>Websites</h3>
       </td>
     </tr>
   </thead>
   <tr>
     <td>
-      <a href="https://antenadossat.com.br">Antenados Sat</a>
+      <h5>Projeto</h5>
+    </td>
+    <td>
+      <h5>Intro</h5>
+    </td>
+    <td>
+      <h5>Links</h5>
+    </td>
+    <td>
+      <h5>Skills</h5>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Antendos Sat
     </td>
     <td>Site comercial do setor de telecomunicações</td>
     <td>
+      <a href="https://antenadossat.com.br">Ver Demo</a>
+    </td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
         alt="react logo" />
       <img width="6" />
@@ -107,25 +150,12 @@
   </tr>
   <tr>
     <td>
-      <a href="https://decorplanejados.com.br">Decor Móveis Planejados</a>
+      Decor Móveis Planejados
     </td>
     <td>Site comercial do setor moveleiro</td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
-        alt="react logo" />
-      <img width="6" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-        alt="javascript logo" />
-      <img width="6" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"
-        alt="next js logo" />
+      <a href="https://decorplanejados.com.br">Ver Demo</a>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://moveisplanejados3-3md4svvor-edcaetanoguedes.vercel.app">Alta Classe Móveis Planejados</a>
-    </td>
-    <td>Site comercial do setor moveleiro</td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
         alt="react logo" />
@@ -139,9 +169,27 @@
   </tr>
   <tr>
     <td>
-      <a href="https://orkaplanejados.com.br">Orka Móveis Planejados</a>
+      Alta Classe Móveis Planejados
     </td>
     <td>Site comercial do setor moveleiro</td>
+    <td>
+      <a href="https://moveisplanejados3-3md4svvor-edcaetanoguedes.vercel.app">Ver Demo</a>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
+        alt="react logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"
+        alt="next js logo" />
+    </td>
+  </tr>
+  <tr>
+    <td>Orka Móveis Planejados</td>
+    <td>Site comercial do setor moveleiro</td>
+    <td><a href="https://orkaplanejados.com.br">Ver Demo</a></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
         alt="react logo" />
