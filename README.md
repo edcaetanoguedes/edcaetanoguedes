@@ -109,6 +109,25 @@
         alt="javascript logo" />
     </td>
   </tr>
+
+  <tr>
+    <td>
+      Rifa [Público] [<a href="#">Em construção</a>]
+    </td>
+    <td>Rifa desenvolvida em React.
+    </td>
+    <td>
+      <a href="https://github.com/edcaetanoguedes/rifa">Ver Repositório</a>
+      </br>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
+        alt="react logo" />
+      <img width="6" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
+    </td>
+  </tr>
 </table>
 
 <table class="Websites">
