@@ -99,7 +99,7 @@
     <td>
       <a href="https://github.com/edcaetanoguedes/calculator">Ver Repositório</a>
       </br>
-      <a href="https://reactjs-calcultor.vercel.app">Ver Demo</a>
+      <a href="https://reactjs-calculator.vercel.app">Ver Demo</a>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30"
