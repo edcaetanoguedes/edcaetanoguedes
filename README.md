@@ -74,7 +74,6 @@
       </td>
     </tr>
   </thead>
-
   <tr>
     <td>
       <h4>Projeto</h4>
@@ -89,7 +88,6 @@
       <h4>Skills</h4>
     </td>
   </tr>
-
   <tr>
     <td>
       Calculadora [Público]
@@ -109,7 +107,6 @@
         alt="javascript logo" />
     </td>
   </tr>
-
   <tr>
     <td>
       Rifa [Público] [<a href="#">Em construção</a>]
@@ -130,7 +127,7 @@
   </tr>
 </table>
 
-<table class="Websites">
+<table class="websites">
   <thead>
     <tr>
       <td colspan="4">
@@ -152,7 +149,6 @@
       <h4>Skills</h4>
     </td>
   </tr>
-
   <tr>
     <td>
       Antendos Sat
@@ -220,6 +216,32 @@
       <img width="6" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"
         alt="next js logo" />
+    </td>
+  </tr>
+</table>
+
+<table class="drivers">
+  <thead>
+    <tr>
+      <td colspan="4">
+        <h2>Utilidades & Drivers <sup><a href="https://github.com/edcaetanoguedes/free-drivers">Ver todos</a></sup></h2>
+      </td>
+    </tr>
+  </thead>
+  <tr>
+    <td>
+      <a href="https://github.com/edcaetanoguedes/free-drivers/tree/main/Realtek%20PCIe%20GBE%20Family%20Controller">Realtek PCIe GbE Family Controller</a>
+    </td>
+    <td>
+      <p>Controladora de conexão de Internet</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/edcaetanoguedes/free-drivers/tree/main/Wireless%20Adapter%20-%20TOTO%20Link%20A2000UA">TOTO Link A2000UA</a>
+    </td>
+    <td>
+      <p>Wireless Adapter TOTO Link - Realtek 8812AU</p>
     </td>
   </tr>
 </table>
