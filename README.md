@@ -14,11 +14,11 @@
     </a>
     <img width="3px" alt="" />
     <a href="https://www.linkedin.com/in/ednaldocaetanoguedes">
-      <img src="/icons/linkedin-svgrepo-com.svg" height="35px" alt="Linkedin" />
+      <img src="/icons/linkedin-svgrepo-com.svg" width="30px" height="30px" alt="Linkedin" />
     </a>
     <img width="3px" alt="" />
     <a href="https://www.instagram.com/ednaldocaetanoguedes">
-      <img src="/icons/instagram-svgrepo-com.svg" height="30px" alt="Instagram" />
+      <img src="/icons/instagram-svgrepo-com.svg" width="30px" height="30px" alt="Instagram" />
     </a>
   </div>
   <div class="social" align="center">
